@@ -1,6 +1,7 @@
 # UI-Framework
-The sole purpose of this project is to make a UI framework for full-stack developers.
+This project started as a personal project to help other devs to implement crud functionalities on the most commonly used ui component (Grid, Scheduler, File Upload, List).
 
-##Features to achieve
+## Features to achieve
 - Basic Crud for grid
 - Basic Crud for Scheduler
+- Crud File uploader
